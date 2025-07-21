@@ -58,14 +58,6 @@ Este projeto é configurado para ser executado facilmente no **Google Colab**, a
 
 ---
 
-## Estrutura do Projeto
-.
-├── README.md
-├── seu_notebook_colab.ipynb  # (O arquivo .ipynb que contém o código do Colab)
-└── (Opcional: outras pastas como data/ se não usar o Drive)
-
----
-
 ## Contribuição
 
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
